@@ -1,0 +1,22 @@
+packages/nodes-base/nodes/MondayCom/GenericFunctions.ts
+  s_99c824aaa3b449::t_ca908601200e6d 50-53,56
+packages/nodes-base/nodes/MondayCom/test/MondayCom.node.test.ts
+  s_99c824aaa3b449::t_7165c65ad7c14a 202,204-205,212,234-257
+  s_99c824aaa3b449::t_28100577211e41 258-259
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "858ee14fa695a7adc49d8052e226f2e3abc96106",
+  "prompts": {},
+  "sessions": {
+    "s_99c824aaa3b449": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "56bc145f-32b3-4ddd-90b7-a873aa1214d0",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "c2nprds <c2nprds@gmail.com>"
+    }
+  }
+}
