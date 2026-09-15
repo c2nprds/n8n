@@ -1,0 +1,43 @@
+packages/nodes-base/nodes/MondayCom/MondayCom.node.ts
+  s_99c824aaa3b449::t_8e88561795c58c 659
+  s_99c824aaa3b449::t_9a4c295ed4bdf5 638
+  s_99c824aaa3b449::t_30802af6647626 709
+  s_99c824aaa3b449::t_6e943ac024d10e 28-66
+packages/nodes-base/nodes/MondayCom/GenericFunctions.ts
+  s_99c824aaa3b449::t_36faef4f0cd513 22
+  s_99c824aaa3b449::t_38a5efffb4547c 33-37,39-45,49-64
+packages/nodes-base/nodes/MondayCom/test/MondayCom.node.test.ts
+  s_99c824aaa3b449::t_7750fa40aa832c 202-233
+  s_99c824aaa3b449::t_525df958b0637d 107
+  s_99c824aaa3b449::t_7fe555cf0c743a 106
+  s_99c824aaa3b449::t_767c2ee5213745 6,9-15,19
+  s_99c824aaa3b449::t_b978f3e280c099 53-54
+packages/nodes-base/nodes/MondayCom/test/get.workflow.json
+  s_99c824aaa3b449::t_eeb15b6b1565af 87-88
+packages/nodes-base/credentials/MondayComApi.credentials.ts
+  s_99c824aaa3b449::t_335d0645beb296 37
+packages/nodes-base/nodes/MondayCom/test/getByColumnValue.workflow.json
+  s_99c824aaa3b449::t_edc343b8ba83b1 91-92
+packages/nodes-base/nodes/MondayCom/test/getAll.workflow.json
+  s_99c824aaa3b449::t_1dd71fccebfe52 89-90
+packages/nodes-base/nodes/MondayCom/test/getAllPaginated.workflow.json
+  s_99c824aaa3b449::t_6735700e76c223 89-90,166-167
+packages/nodes-base/nodes/MondayCom/test/getError.workflow.json
+  s_99c824aaa3b449::t_890b156fedfc45 1-50
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d369378a0451cea387f166909e5ce352e7f016f5",
+  "prompts": {},
+  "sessions": {
+    "s_99c824aaa3b449": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "56bc145f-32b3-4ddd-90b7-a873aa1214d0",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "c2nprds <c2nprds@gmail.com>"
+    }
+  }
+}
